@@ -1,0 +1,16 @@
+header{
+    width: 680;
+    height: 400;
+}
+
+body{
+    background-color: rgb(255, 241, 224);
+    color: rgb(97, 43, 18);
+}
+h1, h2, p{
+    text-align: center;
+    text-size-adjust: 6;
+}
+p{
+    color: saddlebrown;
+}
