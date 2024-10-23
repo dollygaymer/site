@@ -2,6 +2,7 @@ header{
     width: 680;
     height: 400;
     background-color: rgb(223, 189, 147);
+    font-size: large;
 }
 
 body{
@@ -18,5 +19,8 @@ p{
 }
 footer{
     text-align: center;
-    background-color: rgb(241, 170, 122);
+    background-color: rgb(173, 126, 94);
+}
+img{
+    align-content: center;
 }
