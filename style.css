@@ -14,13 +14,18 @@ h1, h2, p{
     text-align: center;
     text-size-adjust: 6;
 }
+nav{
+    text-align: center;
+    color: blanchedalmond;
+}
 p{
     color: saddlebrown;
+    text-size-adjust: 8;
 }
 footer{
     text-align: center;
-    background-color: rgb(173, 126, 94);
+    background-color: rgb(233, 189, 147);
 }
 img{
-    align-content: center;
+    text-align: center;
 }
